@@ -22,15 +22,15 @@ return [
     | Connections
     |--------------------------------------------------------------------------
     |
-    | Here are each of the connections setup for your application. Example
-    | configuration has been included, but you may add as many connections as
-    | you would like.
+    | Here you may specify all of the connections for your application and
+    | their respective settings. Example configuration has been included,
+    | but you may add as many connections as you would like.
     |
     */
 
     'connections' => [
         'main' => [
-            'ffmpeg.binaries'  => '/opt/local/ffmpeg/bin/ffmpeg',
+            'ffmpeg.binaries' => '/opt/local/ffmpeg/bin/ffmpeg',
             'ffprobe.binaries' => '/opt/local/ffmpeg/bin/ffprobe',
         ],
     ],
