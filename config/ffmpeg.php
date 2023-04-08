@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Default Connection Name
@@ -30,9 +29,8 @@ return [
 
     'connections' => [
         'main' => [
-            'ffmpeg.binaries'  => '/opt/local/ffmpeg/bin/ffmpeg',
+            'ffmpeg.binaries' => '/opt/local/ffmpeg/bin/ffmpeg',
             'ffprobe.binaries' => '/opt/local/ffmpeg/bin/ffprobe',
         ],
     ],
-
 ];
