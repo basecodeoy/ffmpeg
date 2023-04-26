@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace BombenProdukt\FFMpeg;
 
-use FFMpeg\FFMpeg;
 use BombenProdukt\Manager\AbstractManager;
+use FFMpeg\FFMpeg;
 
 final class FFMpegManager extends AbstractManager
 {

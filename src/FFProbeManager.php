@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace BombenProdukt\FFMpeg;
 
-use FFMpeg\FFProbe;
 use BombenProdukt\Manager\AbstractManager;
+use FFMpeg\FFProbe;
 
 final class FFProbeManager extends AbstractManager
 {
