@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/laravel-ffmpeg/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-ffmpeg" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-ffmpeg">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/laravel-ffmpeg" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-ffmpeg">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/laravel-ffmpeg" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/laravel-ffmpeg">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/laravel-ffmpeg" alt="License" />
-    </a>
-</p>
 
 ## About Laravel FFmpeg
 
